@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "the-sleeper",
+    "name": "The Sleeper",
+    "epithet": "the cryo-waked amnesiac · the hero",
+    "emergence": "natural"
+  },
+  {
+    "slug": "sword-of-wind",
+    "name": "Sword of Wind",
+    "epithet": "the first blade · element of Wind",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "sword-of-water",
+    "name": "Sword of Water",
+    "epithet": "element of Water",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "sword-of-fire",
+    "name": "Sword of Fire",
+    "epithet": "element of Fire",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "sword-of-thunder",
+    "name": "Sword of Thunder",
+    "epithet": "the strongest of the four · element of Thunder",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "crystalis",
+    "name": "Crystalis",
+    "epithet": "the fifth blade · the union",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-four-sages",
+    "name": "The Four Sages",
+    "epithet": "Zebu · Tornel · Asina · Kensu",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "mesia",
+    "name": "Mesia",
+    "epithet": "the fellow survivor · the forge",
+    "emergence": "natural"
+  },
+  {
+    "slug": "emperor-draygon",
+    "name": "Emperor Draygon",
+    "epithet": "the king who dug up science · the villain",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-tower",
+    "name": "The Tower",
+    "epithet": "the pre-war sky-weapon",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "dyna",
+    "name": "DYNA",
+    "epithet": "the computer at the top · the true final boss",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-end-day",
+    "name": "The End Day",
+    "epithet": "October 1, 1997 · the wound",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-awakening",
+    "name": "The Awakening",
+    "epithet": "the cryo-rebirth · the empty head",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "god-slayer",
+    "name": "God Slayer",
+    "epithet": "Haruka Tenku no Sonata · the true self",
+    "emergence": "spiritual"
+  }
+]

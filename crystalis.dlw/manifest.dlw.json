@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "CRYSTALIS",
+  "universe": "XTL · Crystalis",
+  "emergence": "",
+  "moniker": "⟦CRYSTALIS:XTL:e505dc⟧",
+  "carbon": "crystalis.carbon.tiff (TIFF)",
+  "silicon": "crystalis.silicon.png (PNG)",
+  "seal_sha256": "c8c77b8ede704850d74fca28af9c39b75dfbfb15c4a9b2578d696644a82c6fb7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
